@@ -1,0 +1,75 @@
+@font-face {
+    font-family: Custom;
+    src:url(/fuentes/PopulaireW00Regular/PopulaireW00Regular.ttf)
+}
+
+body {
+	margin: auto;
+	padding:18px;
+	max-width: 600px;
+	font-size:18px;
+	text-align: left;
+	background-color: #f4f1e9;
+	position: relative;
+}
+
+nav ul li {
+
+    font-family: Custom;
+	display: inline;
+    padding-right: 0.5em;
+}
+
+a {
+    color: #4A4A4A;
+}
+
+p a { 
+	color: #4a4a4a;
+
+}
+
+footer ul li {
+	display: inline;
+	font-family: Custom;
+}
+footer {
+	margin-top: 2rem;
+	text-align: center;
+}
+
+h1 {
+      text-align: center;
+    }
+
+.proyecto {
+      border-top: 1px dashed #aaa;
+      padding-top: 0.5em;
+      margin-top: 0.5em;
+	  font-family: Custom;
+    }
+
+.estado {
+      font-style: italic;
+      color: #555;
+    }
+
+.apartados h2 {
+     font-size: 1.1em;
+     color: #4A4A4A;
+     margin-bottom: 0.5em;
+     font-family: Custom;
+     border-left: 4px solid #aaa;
+     padding-left: 0.5em; 
+    }
+.apartados p {
+     font-family: 'Courier New', monospace;
+     color: #222;
+     margin: auto;
+} 
+.apartados ul {
+     font-family: 'Courier New', monospace;
+     color: #222;
+     margin: auto;
+     margin-top: 0.5em;
+}
