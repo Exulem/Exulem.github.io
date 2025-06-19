@@ -73,3 +73,15 @@ h1 {
      margin: auto;
      margin-top: 0.5em;
 }
+
+.negrita {
+     font-size: 1.1em;
+     color: #4A4A4A;
+     margin-bottom: 0.5em;
+     margin-top: 0.5em;
+     font-family: Custom;
+     border-left: 4px solid #aaa;
+     padding-left: 0.5em; 
+}
+
+/* Proyecto hecho íntegramente por Exulem */
